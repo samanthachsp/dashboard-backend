@@ -30,4 +30,4 @@ Also datasource.url , spring.datasource.url
 Right click on ApiApplication.java -> Run As -> Java Application
 
 ### User
-You can use this user to login to the dashboard ( user: sk, password: a)
+You can use this user to login to the dashboard ( user: sk, password: 1)
