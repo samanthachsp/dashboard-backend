@@ -8,7 +8,7 @@ Please refer below steps to run this project.
 * Install MySql 5.5 or higher
 * Create the database (dashboard)
 * Execute the DDL (mysql_ddl.sql)
-* Execute the DDM (mysql_dml.sql)
+* Execute the DML (mysql_dml.sql)
 
 ## Import the project to eclipse
 
